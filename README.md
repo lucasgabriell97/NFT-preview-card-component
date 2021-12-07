@@ -7,3 +7,5 @@
 Foi o meu primeiro desafio pela Frontend Mentor, ótimo site para praticar e ir avançando para desafios mais complexos. 🚀
 
 ## Minha resolução
+
+https://nft-preview-card-component-lg.netlify.app/
